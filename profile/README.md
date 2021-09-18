@@ -1,2 +1,2 @@
 
-<img src="./openregistry.gif" alt="openregistry gif"/>
+<img src="../openregistry.gif" alt="openregistry gif"/>
