@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/containerish/.github/main/OpenRegistryNew.gif" alt="openregistry gif"/>
+<img src="https://raw.githubusercontent.com/containerish/.github/main/openregistry-github.png" alt="openregistry public profile"/>
